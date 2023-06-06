@@ -26,6 +26,8 @@ Order Detail can be associated with only one Drug, but one Drug can have many Or
 Details.
 10. A Zip Code can be associated with many Customers, Doctors, and Suppliers, but each
 Customer, Doctor, and Supplier can be associated with only one Zip Code.
+
+
 These business rules help to ensure data integrity and maintain consistency in the pharmacy
 database. By following these rules, the database can accurately track the various entities involved in
 the pharmacy business, such as drugs, suppliers, customers, and orders
