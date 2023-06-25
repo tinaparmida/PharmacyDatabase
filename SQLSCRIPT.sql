@@ -1,14 +1,6 @@
-DBS211NDD FINAL PROJECT WINTER 2023
 DBMS of Pharmacy Management System (single Store)
 
 MS3: SQL scripts for creation, inserting sample data
-
-GROUP MEMBERS
-
-PARMIDA (TINA) KHAKIAN-DEHKORDI 133117226
-NIGEL MURRAY 104701222
-ARDA PUR 100649169
-
 
 -- Create Zip Table
 CREATE TABLE Zip (
